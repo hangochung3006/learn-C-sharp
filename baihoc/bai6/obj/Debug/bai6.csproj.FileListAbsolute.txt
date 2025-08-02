@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai6\bin\Debug\bai6.exe.config
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai6\bin\Debug\bai6.exe
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai6\bin\Debug\bai6.pdb
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai6\obj\Debug\bai6.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai6\obj\Debug\bai6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai6\obj\Debug\bai6.exe
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai6\obj\Debug\bai6.pdb
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai6\obj\Debug\bai6.exe.config
