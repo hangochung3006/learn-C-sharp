@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai7\bin\Debug\bai7.exe.config
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai7\bin\Debug\bai7.exe
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai7\bin\Debug\bai7.pdb
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai7\obj\Debug\bai7.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai7\obj\Debug\bai7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai7\obj\Debug\bai7.exe
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai7\obj\Debug\bai7.pdb
