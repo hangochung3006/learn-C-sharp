@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai11.1\bin\Debug\bai11.1.exe.config
+C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai11.1\bin\Debug\bai11.1.exe
+C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai11.1\bin\Debug\bai11.1.pdb
+C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai11.1\obj\Debug\bai11.1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai11.1\obj\Debug\bai11.1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai11.1\obj\Debug\bai11.1.exe
+C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai11.1\obj\Debug\bai11.1.pdb
+C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai11.1\obj\Debug\bai11.1.exe.config
