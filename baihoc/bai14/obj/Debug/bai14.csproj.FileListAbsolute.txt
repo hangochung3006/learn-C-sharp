@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai14\bin\Debug\bai14.exe.config
+C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai14\bin\Debug\bai14.exe
+C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai14\bin\Debug\bai14.pdb
+C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai14\obj\Debug\bai14.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai14\obj\Debug\bai14.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai14\obj\Debug\bai14.exe
+C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai14\obj\Debug\bai14.pdb
+C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai14\obj\Debug\bai14.exe.config
