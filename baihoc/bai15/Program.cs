@@ -38,6 +38,12 @@ namespace bai15
             char[] lst = tachChuoi.ToCharArray();
             Console.WriteLine(lst);
             Console.WriteLine(lst.GetType().ToString());
+
+
+            //Độ dài của chuỗi
+            string doDai = "Ha Ngoc Hung";
+            Console.WriteLine("Do dai chuoi la " + doDai.Length);
+            Console.WriteLine("Ky tu thu nhat la: " + doDai[0]);
             Console.ReadKey();
         }
     }
