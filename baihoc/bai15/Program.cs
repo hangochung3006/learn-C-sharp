@@ -97,7 +97,34 @@ namespace bai15
             string chuoiDaChen2 = chuoiCanChen.Insert(6, " " + chuoiSeChen);
             Console.WriteLine(chuoiDaChen1);
             Console.WriteLine(chuoiDaChen2);
+
+            //IndexOf
+            string chuoi9 = "HaNgocHung";
+            int indexOf = chuoi9.IndexOf("o"); //Tìm kiếm ký tự 'o' đầu tiên trong chuỗi
+            int indexOf2 = chuoi9.IndexOf("o", 5); //Tìm kiếm ký tự 'o' bắt đầu từ vị trí 5
+            Console.WriteLine(indexOf);
+            Console.WriteLine(indexOf2);
+
+            //LastIndexOf
+            string chuoi10 = "HaNgocHung";
+            int lastIndexOf = chuoi10.LastIndexOf("H"); //Tìm kiếm ký tự 'H' cuối cùng trong chuỗi
+            int lastIndexOf2 = chuoi10.LastIndexOf("h"); //Tìm kiếm ký tự 'h' cuối cùng trong chuỗi
+            Console.WriteLine(lastIndexOf);
+            Console.WriteLine(lastIndexOf2);
+
+            //Remove(index,count)
+            string chuoi11 = "HaNgocHung";
+            string chuoiDaXoa = chuoi11.Remove(2,3); //Xóa 3 ký tự bắt đầu từ vị trí 2
+            Console.WriteLine(chuoi11);
+            Console.WriteLine(chuoiDaXoa);
+
+            //Replace("str old", "str new")
+            string chuoi12 = "Ha Ngoc Hung";
+            string chuoiDaThayThe = chuoi12.Replace(" ", "");
+            Console.WriteLine(chuoi12);
+            Console.WriteLine(chuoiDaThayThe);
             Console.ReadKey();
+
         }
     }
 }
