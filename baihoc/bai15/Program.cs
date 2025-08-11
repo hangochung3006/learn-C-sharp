@@ -31,7 +31,7 @@ namespace bai15
             Console.WriteLine(chuoiSo2 + " " + chuoiSo2.GetType().ToString());
             string chuoiSo3 = Convert.ToString(i);
             Console.WriteLine(chuoiSo3 + " " + chuoiSo3.GetType().ToString());
-            
+
 
             //Tách chuỗi và cho vào mảng
             string tachChuoi = "HaNgocHung";
@@ -114,7 +114,7 @@ namespace bai15
 
             //Remove(index,count)
             string chuoi11 = "HaNgocHung";
-            string chuoiDaXoa = chuoi11.Remove(2,3); //Xóa 3 ký tự bắt đầu từ vị trí 2
+            string chuoiDaXoa = chuoi11.Remove(2, 3); //Xóa 3 ký tự bắt đầu từ vị trí 2
             Console.WriteLine(chuoi11);
             Console.WriteLine(chuoiDaXoa);
 
@@ -123,8 +123,48 @@ namespace bai15
             string chuoiDaThayThe = chuoi12.Replace(" ", "");
             Console.WriteLine(chuoi12);
             Console.WriteLine(chuoiDaThayThe);
-            Console.ReadKey();
 
+            //StartsWith
+            string chuoi13 = "HaNgocHung";
+            bool chuoiBatDau = chuoi13.StartsWith("Ha");
+            Console.WriteLine(chuoiBatDau);
+
+            //Substring
+            string chuoi14 = "HaNgocHung";
+            string chuoiCat = chuoi14.Substring(2, 4); //Lấy 4 ký tự bắt đầu từ vị trí index 2
+            Console.WriteLine(chuoiCat);
+
+            //ToLower() ToUpper()
+            string chuoi15 = "HaNgocHung";
+            string chuoiVietHoa = chuoi15.ToUpper();
+            string chuoiVietThuong = chuoi15.ToLower();
+            Console.WriteLine(chuoiVietHoa);
+            Console.WriteLine(chuoiVietThuong);
+
+            //Trim(), TrimEnd(), TrimStart()
+            string chuoi16 = "   Ha Ngoc Hung    ";
+            string chuoiTrim = chuoi16.Trim();
+            string chuoiTrimEnd = chuoi16.TrimEnd();
+            string chuoiTrimStart = chuoi16.TrimStart();
+            Console.WriteLine(chuoiTrim);
+            Console.WriteLine(chuoiTrimEnd);
+            Console.WriteLine(chuoiTrimStart);
+
+            //Split
+            string chuoi17 = "Ha,Ngoc,Hung";
+            string[] chuoiSplit = chuoi17.Split(',');
+            Console.WriteLine(chuoiSplit[0]);
+            Console.WriteLine(chuoiSplit[1]);
+            Console.WriteLine(chuoiSplit[2]);
+
+            //Join string
+            string[] chuoiCanGhep = new string[3]; //Khởi tạo 1 mảng có 3 phần tử, các phần tử có kiểu string
+            chuoiCanGhep[0] = "Ha";
+            chuoiCanGhep[1] = "Ngoc";
+            chuoiCanGhep[2] = "Hung";
+            string chuoiDaGhep = string.Join(",", chuoiCanGhep);
+            Console.WriteLine(chuoiDaGhep);
+            Console.ReadKey();
         }
     }
 }
