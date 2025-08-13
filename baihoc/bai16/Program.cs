@@ -36,6 +36,10 @@ namespace bai16
             {
                 Console.Write(item + " ");
             }
+            Console.WriteLine();
+            //Length
+            int[] doDaiMang = new int[5] { 1, 2, 3, 4, 5 };
+            Console.WriteLine("Chieu dai cua mang la: " + doDaiMang.Length);
             Console.ReadKey();
         }
     }
