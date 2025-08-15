@@ -74,6 +74,34 @@ namespace bai16
             mangGan[1] = 4124124;
             Console.WriteLine(mang3[1]);
             Console.WriteLine(mangGan[1]);
+
+            //CopyTo
+            int[] mang4 =  { 1, 2, 3, 4, 5 };
+            int[] mangCopyTo =  { 100, 200, 300, 400, 500, 600, 700};
+            mang4.CopyTo(mangCopyTo, 1); // Copy từ mang4 vào mangCopyTo bắt đầu từ vị trí index 1
+            foreach (var item in mangCopyTo)
+            {
+                Console.Write(item + " ");
+            }
+
+            //Copy
+            int[] mang5 = { 2, 3, 4, 5, 7 };
+            int[] mangCopy = { 99, 100, 101 };
+            Array.Copy(mang5, mangCopy, 3); 
+            // Sao chép 3 phần tử đầu tiên từ mang5 vào mangCopy
+            Console.WriteLine();
+            foreach (var item in mangCopy)
+            {
+                Console.Write(item + " ");
+            }
+            Console.WriteLine();
+
+            //Clone
+            int[] mang6 = { 8, 2, 4, 6, 3, 7 };
+            int[] mangClone = (int[])mang6.Clone();
+            mang6[0] = 99;
+            Console.WriteLine(mang6[0]);
+            Console.WriteLine(mangClone[0]);
             Console.ReadKey();
 
         }
