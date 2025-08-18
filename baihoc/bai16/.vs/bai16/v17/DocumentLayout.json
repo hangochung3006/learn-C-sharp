@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\learn-C-sharp\\baihoc\\bai16\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\learn-C-sharp\\baihoc\\bai16\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D838434D-0510-4C90-A6D8-903180DB32C3}|bai16.csproj|c:\\users\\admin\\desktop\\learn-c-sharp\\baihoc\\bai16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D838434D-0510-4C90-A6D8-903180DB32C3}|bai16.csproj|c:\\users\\asus\\desktop\\learn-c-sharp\\baihoc\\bai16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D838434D-0510-4C90-A6D8-903180DB32C3}|bai16.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\learn-C-sharp\\baihoc\\bai16\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\learn-C-sharp\\baihoc\\bai16\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAiwGkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T10:07:21.378Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
@@ -36,6 +23,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\learn-C-sharp\\baihoc\\bai16\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\learn-C-sharp\\baihoc\\bai16\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAqwGwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:07:21.378Z",
+              "EditorCaption": ""
             }
           ]
         }

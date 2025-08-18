@@ -102,6 +102,22 @@ namespace bai16
             mang6[0] = 99;
             Console.WriteLine(mang6[0]);
             Console.WriteLine(mangClone[0]);
+
+            //Array.Reverse
+            int[] mang7 = new int[] { 1, 5, 3, 4, 5 };
+            Array.Reverse(mang7);
+            foreach(int so in mang7)
+            {
+                Console.Write(so + " ");
+            }
+
+            //Array.Sort()
+            int[] mang8 = { 1, 6, 44, 22, 22, 22, -2, -5, -3 };
+            Array.Sort(mang8);
+            foreach(int so in mang8)
+            {
+                Console.Write(so + " ");
+            }
             Console.ReadKey();
 
         }
