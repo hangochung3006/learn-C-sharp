@@ -6,3 +6,11 @@ C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai18\obj\Debug\bai18.csproj.CoreComp
 C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai18\obj\Debug\bai18.exe
 C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai18\obj\Debug\bai18.pdb
 C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai18\obj\Debug\bai18.exe.config
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai18\bin\Debug\bai18.exe.config
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai18\bin\Debug\bai18.exe
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai18\bin\Debug\bai18.pdb
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai18\obj\Debug\bai18.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai18\obj\Debug\bai18.exe.config
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai18\obj\Debug\bai18.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai18\obj\Debug\bai18.exe
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai18\obj\Debug\bai18.pdb
