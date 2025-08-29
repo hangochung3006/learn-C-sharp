@@ -65,12 +65,28 @@ namespace bai19
             dic9.Clear();
             Console.WriteLine(dic9.Count());
 
+            //10. Chuyển values dic sang list
+            Dictionary<int, string> dic10 = new Dictionary<int, string>() { { 1, "Hung" }, { 2, "Huyen" } };
+            List<string> ds = new List<string>();
+            ds = dic10.Values.ToList();
+            foreach (string pTu in ds)
+            {
+                Console.WriteLine(pTu);
+            }
 
+            //11. Chuyển keys dic sang list
+            Dictionary<int, string> dic11 = new Dictionary<int, string>() { { 1, "Hung" }, { 2, "Huyen" } };
+            List<int> ds1 = new List<int>();
+            ds1 = dic11.Keys.ToList();
+            foreach (int pTu in ds1)
+            {
+                Console.WriteLine(pTu);
+            }
+            Console.WriteLine();
 
-
-
-
-
+            //12. .Count()
+            Dictionary<int, string> dic12 = new Dictionary<int, string>() { { 1, "Hung" }, { 2, "Huyen" } };
+            Console.WriteLine(dic12.Count());
 
 
 
