@@ -4,16 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace bai24
+namespace bai26
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            double a = Math.Sqrt(5);
-            double b = a * a;
-            Console.WriteLine(a);
-            Console.WriteLine(b);
         }
     }
 }
