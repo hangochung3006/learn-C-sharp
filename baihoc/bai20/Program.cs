@@ -39,11 +39,48 @@ namespace bai20
                 Console.WriteLine("Xin chao, minh la Girl");
             }    
         }
-        
+        //Tham trị
+        static void thamTri(int a)
+        {
+            a = a + 1;
+            Console.WriteLine("a trong ham la: " + a);
+        }
+        //Tham chiếu Ref
+        static void thamChieuRef(ref int b)
+        {
+            b++;
+            Console.WriteLine("b trong ham la: " + b);
+        }
+        //Tham chiếu Out
+        static void thamChieuOut(out int c)
+        {
+            c = 2;
+            Console.WriteLine("c trong ham la: " + c);
+        }
         static void Main(string[] args)
         {
-            xinChao("Nam");
+            int c;
+            thamChieuOut(out c);
+            Console.WriteLine("c sau khi goi ham la: " + c);
 
+
+
+
+
+
+            //Tham chiêu Ref
+            int b = 1;
+            Console.WriteLine("b truoc khi goi ham la: " + b);
+            thamChieuRef(ref b);
+            Console.WriteLine("b sau khi goi ham la: " + b);
+
+            //Tham trị
+            int a = 1;
+            Console.WriteLine("a truoc khi goi ham la: " + a);
+            thamTri(a);
+            Console.WriteLine("a sau khi thuc hien ham tren: " + a);
+
+            xinChao("Nam");
             int kq = tinhTong(4, 2, 6);
             Console.WriteLine("kq = "+kq);
             //Xuất giai thừa
