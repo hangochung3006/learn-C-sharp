@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai22\obj\Debug\bai22.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai22\obj\Debug\bai22.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai22\bin\Debug\bai22.exe.config
+C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai22\bin\Debug\bai22.exe
+C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai22\bin\Debug\bai22.pdb
+C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai22\obj\Debug\bai22.exe
+C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai22\obj\Debug\bai22.pdb
+C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai22\obj\Debug\bai22.exe.config

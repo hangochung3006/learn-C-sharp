@@ -10,6 +10,14 @@ namespace bai22
     {
         static void Main(string[] args)
         {
+
+            SinhVien sinhVien1 = new SinhVien();
+            Console.WriteLine(sinhVien1.MaSV);
+            Console.WriteLine(sinhVien1.TenSV);
+            Console.WriteLine(sinhVien1.Tuoi);
+            Console.WriteLine(sinhVien1.Lop);
+            Console.ReadKey();
+
         }
     }
 }
