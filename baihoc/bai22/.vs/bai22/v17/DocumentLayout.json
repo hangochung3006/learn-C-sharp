@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\learn-C-sharp\\baihoc\\bai22\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C23D38A3-E4AE-4374-BC7B-4F3731F0C971}|bai22.csproj|c:\\users\\admin\\desktop\\learn-c-sharp\\baihoc\\bai22\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23D38A3-E4AE-4374-BC7B-4F3731F0C971}|bai22.csproj|solutionrelative:sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C23D38A3-E4AE-4374-BC7B-4F3731F0C971}|bai22.csproj|C:\\Users\\Admin\\Desktop\\learn-C-sharp\\baihoc\\bai22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C23D38A3-E4AE-4374-BC7B-4F3731F0C971}|bai22.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23D38A3-E4AE-4374-BC7B-4F3731F0C971}|bai22.csproj|c:\\users\\admin\\desktop\\learn-c-sharp\\baihoc\\bai22\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23D38A3-E4AE-4374-BC7B-4F3731F0C971}|bai22.csproj|solutionrelative:sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SinhVien.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\learn-C-sharp\\baihoc\\bai22\\SinhVien.cs",
               "RelativeDocumentMoniker": "SinhVien.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\learn-C-sharp\\baihoc\\bai22\\SinhVien.cs",
               "RelativeToolTip": "SinhVien.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAYwGsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T10:21:57.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\learn-C-sharp\\baihoc\\bai22\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\learn-C-sharp\\baihoc\\bai22\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T10:20:50.175Z",
               "EditorCaption": ""
