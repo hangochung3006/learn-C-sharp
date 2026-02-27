@@ -10,6 +10,7 @@ namespace bai27
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Nhap so nguyen n: ");
         }
     }
 }

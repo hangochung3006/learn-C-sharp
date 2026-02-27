@@ -10,11 +10,12 @@ namespace bai22
 {
     internal class SinhVien
     {
+        #region biến lớp
         private int maSV;
         private string tenSV;
         private int tuoi;
         private string lop;
-
+        #endregion
         //Gán giá trị mặc định cho đối tượng
         public SinhVien()
         {
@@ -53,6 +54,10 @@ namespace bai22
             get { return lop; }
             set { lop = value; }
         }
-
+        //Phương thức ToString 
+        public override string ToString()
+        {
+            return this.MaSV + "\t" + this.TenSV;
+        }
     }
 }

@@ -6,3 +6,11 @@ C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai22\bin\Debug\bai22.pdb
 C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai22\obj\Debug\bai22.exe
 C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai22\obj\Debug\bai22.pdb
 C:\Users\ASUS\Desktop\learn-C-sharp\baihoc\bai22\obj\Debug\bai22.exe.config
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai22\bin\Debug\bai22.exe.config
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai22\bin\Debug\bai22.exe
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai22\bin\Debug\bai22.pdb
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai22\obj\Debug\bai22.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai22\obj\Debug\bai22.exe.config
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai22\obj\Debug\bai22.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai22\obj\Debug\bai22.exe
+C:\Users\Admin\Desktop\learn-C-sharp\baihoc\bai22\obj\Debug\bai22.pdb

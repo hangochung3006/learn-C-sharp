@@ -12,6 +12,9 @@ namespace bai22
         {
 
             SinhVien sinhVien1 = new SinhVien();
+            Console.WriteLine(sinhVien1);
+            Console.WriteLine(sinhVien1.ToString());
+
             Console.WriteLine(sinhVien1.MaSV);
             Console.WriteLine(sinhVien1.TenSV);
             Console.WriteLine(sinhVien1.Tuoi);
