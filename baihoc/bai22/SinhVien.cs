@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Serialization;
 using System.Security.AccessControl;
 using System.Text;
 using System.Threading.Tasks;
@@ -104,5 +105,18 @@ namespace bai22
         {
             return a + b;
         }
+
+        //Parametter List Method
+        //Tính tổng điểm Trung Bình
+        public float diemTrungBinh(params float[] mang) 
+        {
+            float s = 0;
+            foreach (float f in mang)
+            {
+                s += f;
+            }
+            return s / mang.Count();
+        }
+
     }
 }
